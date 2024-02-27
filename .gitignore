@@ -41,5 +41,6 @@ testem.log
 .DS_Store
 Thumbs.db
 
-.vs/*
-.vs/AskimKro
+/.vs/*
+/.vs/AskimKro
+/.vs/AskimKro/v17/.suo
